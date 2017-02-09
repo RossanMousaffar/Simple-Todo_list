@@ -2,4 +2,4 @@
 
 Mobile Application 
 
-I love :coffee: , :pizza:,and :mobile:.
+I love :coffee: :pizza: and :sleepy:.
