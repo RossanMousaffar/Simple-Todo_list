@@ -1,0 +1,8 @@
+
+
+:database:
+
+open localhost/phpmyadmin 
+create a database todoapps
+import the database 
+and verify if the database contain three tables. 
